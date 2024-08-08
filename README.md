@@ -29,8 +29,6 @@ Make sure to set the VIDEO_PATH environment variable to the path of your video f
 ## Project Structure
 
 ```
-Copiar código
-.
 ├── .env                    # Environment variable file (optional)
 ├── README.md               # Project documentation
 ├── requirements.txt        # Required packages
