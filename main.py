@@ -105,7 +105,7 @@ def extract_frames(video_path, output_folder, sample_rate=1, start_time=0, end_t
 
 if __name__ == "__main__":
     # Example usage
-    video_path = os.getenv('VIDEO_PATH')
+    video_path = r"C:\Users\2dgod\Downloads\00000000205000400.mp4"
     output_folder = "extracted_data"
     sample_rate = 15  # Extract 2 frames per second for a 30 fps video
     start_time = 0
